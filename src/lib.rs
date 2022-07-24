@@ -1,4 +1,6 @@
 //! # Usage  
+//! This just unwraps all expression in the macro simply.  
+//! The expressions must be unwrapable.  
 //!
 //! ```rust
 //! unwrap_sugar! {
