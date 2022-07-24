@@ -1,0 +1,14 @@
+[package]
+name = "unwrap-sugar"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Jedsek <jedsek@qq.com>"]
+description = "Just a simple sugar for unwrapable expressions"
+keywords = ["unwrap", "sugar"]
+homepage = "https://github.com/jedsek/unwrap-sugar"
+repository = "https://github.com/jedsek/unwrap-sugar"
+documentation = "https://docs.rs/unwrap-sugar"
+readme = "README.md"
+
+[dependencies]
